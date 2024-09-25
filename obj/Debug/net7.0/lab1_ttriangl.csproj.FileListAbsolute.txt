@@ -1,0 +1,15 @@
+/Users/artemdwightm1/RiderProjects/lab1_ttriangle/lab1_ttriangl/bin/Debug/net7.0/lab1_ttriangl
+/Users/artemdwightm1/RiderProjects/lab1_ttriangle/lab1_ttriangl/bin/Debug/net7.0/lab1_ttriangl.deps.json
+/Users/artemdwightm1/RiderProjects/lab1_ttriangle/lab1_ttriangl/bin/Debug/net7.0/lab1_ttriangl.runtimeconfig.json
+/Users/artemdwightm1/RiderProjects/lab1_ttriangle/lab1_ttriangl/bin/Debug/net7.0/lab1_ttriangl.dll
+/Users/artemdwightm1/RiderProjects/lab1_ttriangle/lab1_ttriangl/bin/Debug/net7.0/lab1_ttriangl.pdb
+/Users/artemdwightm1/RiderProjects/lab1_ttriangle/lab1_ttriangl/obj/Debug/net7.0/lab1_ttriangl.csproj.AssemblyReference.cache
+/Users/artemdwightm1/RiderProjects/lab1_ttriangle/lab1_ttriangl/obj/Debug/net7.0/lab1_ttriangl.GeneratedMSBuildEditorConfig.editorconfig
+/Users/artemdwightm1/RiderProjects/lab1_ttriangle/lab1_ttriangl/obj/Debug/net7.0/lab1_ttriangl.AssemblyInfoInputs.cache
+/Users/artemdwightm1/RiderProjects/lab1_ttriangle/lab1_ttriangl/obj/Debug/net7.0/lab1_ttriangl.AssemblyInfo.cs
+/Users/artemdwightm1/RiderProjects/lab1_ttriangle/lab1_ttriangl/obj/Debug/net7.0/lab1_ttriangl.csproj.CoreCompileInputs.cache
+/Users/artemdwightm1/RiderProjects/lab1_ttriangle/lab1_ttriangl/obj/Debug/net7.0/lab1_ttriangl.dll
+/Users/artemdwightm1/RiderProjects/lab1_ttriangle/lab1_ttriangl/obj/Debug/net7.0/refint/lab1_ttriangl.dll
+/Users/artemdwightm1/RiderProjects/lab1_ttriangle/lab1_ttriangl/obj/Debug/net7.0/lab1_ttriangl.pdb
+/Users/artemdwightm1/RiderProjects/lab1_ttriangle/lab1_ttriangl/obj/Debug/net7.0/lab1_ttriangl.genruntimeconfig.cache
+/Users/artemdwightm1/RiderProjects/lab1_ttriangle/lab1_ttriangl/obj/Debug/net7.0/ref/lab1_ttriangl.dll
